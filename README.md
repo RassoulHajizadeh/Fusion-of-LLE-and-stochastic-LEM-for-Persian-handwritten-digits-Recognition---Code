@@ -6,7 +6,7 @@ IJDAR journal). In this paper, we have been proposed two new local manifold lear
 - Stochastic LEM (SLEM),
 - Fusion of LLE and SLEM (FSLL).
 
-This repository includes a brief description of these methods and their Matlab codes (as soon).
+This repository includes a brief description of these methods and their Matlab codes.
 For more detailes, the researcher can reffer to the paper:
 https://link.springer.com/article/10.1007/s10032-018-0303-4
 
